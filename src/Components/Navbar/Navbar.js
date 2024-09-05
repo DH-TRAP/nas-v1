@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 import './Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhoneAlt, faUserCircle } from '@fortawesome/free-solid-svg-icons';
-import logo from '../../assets/logo/logo.jpg';
+import logo from '../../assets/logo/logo-t.png';
 
 const Navbar = () => {
   return (
@@ -15,6 +15,7 @@ const Navbar = () => {
       <ul className="navbar-links">
         <li>
           <NavLink to="/" className="nav-link" activeClassName="active">
+          
             Home
           </NavLink>
         </li>
@@ -45,7 +46,7 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="navbar-actions">
-        <input type="text" placeholder="Search Trailhead" />
+        <input type="text" placeholder="Search Constitution of india" />
         <FontAwesomeIcon icon={faPhoneAlt} className="navbar-icon" />
         <FontAwesomeIcon icon={faUserCircle} className="navbar-icon" />
       </div>

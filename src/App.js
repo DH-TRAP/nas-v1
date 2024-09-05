@@ -8,6 +8,7 @@ import Learn from './Components/Learn/Learn';
 import Practice from './Components/Practice/Practice';
 import About from './Components/About/About';
 import Sitemap from './Components/Sitemap/Sitemap';
+import Footer from './Components/Footer/Footer'
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/About" element={<About />} />
         <Route path="/Sitemap" element={<Sitemap />} />
       </Routes>
+      <Footer />
     </Router>
   );
 }

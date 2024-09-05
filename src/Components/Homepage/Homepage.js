@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
-// import Vector from "../assets/Vector.png";
-// import logo from "../assets/logo.png"
+import Vector from "../../assets/Vector.png";
+import logo from '../../assets/logo/logo.jpg'
 import "./Homepage.css";
-// import loksabha from '../assets/logo.png'
+// import loksabha from '../../assets/logo/logo.jpg'
 const Home = () => {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
@@ -19,7 +19,7 @@ const Home = () => {
   return (
     <>
       <div className="container landing_parent">
-        <img src='#' alt="" className="Landing_bg" />
+        <img src={Vector} alt="" className="Landing_bg" />
 
         <div className="landing_body">
           {windowWidth > 430 ? (
@@ -60,7 +60,7 @@ const Home = () => {
             </center>
             <div className="col-lg-6">
               <div className="">
-                <img src='#' alt="" width="100px" />
+                <img src={logo} alt="" width="100px" />
               </div>
             </div>
             <div className="col-lg-6"></div>
