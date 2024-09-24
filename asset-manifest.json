@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nas-v1/static/css/main.c678971d.chunk.css",
+    "main.js": "/nas-v1/static/js/main.5322e573.chunk.js",
+    "main.js.map": "/nas-v1/static/js/main.5322e573.chunk.js.map",
+    "runtime-main.js": "/nas-v1/static/js/runtime-main.feb9a86d.js",
+    "runtime-main.js.map": "/nas-v1/static/js/runtime-main.feb9a86d.js.map",
+    "static/js/2.5f05d3e5.chunk.js": "/nas-v1/static/js/2.5f05d3e5.chunk.js",
+    "static/js/2.5f05d3e5.chunk.js.map": "/nas-v1/static/js/2.5f05d3e5.chunk.js.map",
+    "static/js/3.411b4446.chunk.js": "/nas-v1/static/js/3.411b4446.chunk.js",
+    "static/js/3.411b4446.chunk.js.map": "/nas-v1/static/js/3.411b4446.chunk.js.map",
+    "index.html": "/nas-v1/index.html",
+    "precache-manifest.4003d0759290c542ca81bbb7249211b5.js": "/nas-v1/precache-manifest.4003d0759290c542ca81bbb7249211b5.js",
+    "service-worker.js": "/nas-v1/service-worker.js",
+    "static/css/main.c678971d.chunk.css.map": "/nas-v1/static/css/main.c678971d.chunk.css.map",
+    "static/js/2.5f05d3e5.chunk.js.LICENSE.txt": "/nas-v1/static/js/2.5f05d3e5.chunk.js.LICENSE.txt",
+    "static/media/Vector.png": "/nas-v1/static/media/Vector.ffc3aa42.png",
+    "static/media/logo-t.png": "/nas-v1/static/media/logo-t.4b94ef85.png",
+    "static/media/logo.jpg": "/nas-v1/static/media/logo.da4e8c44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb9a86d.js",
+    "static/js/2.5f05d3e5.chunk.js",
+    "static/css/main.c678971d.chunk.css",
+    "static/js/main.5322e573.chunk.js"
+  ]
+}
