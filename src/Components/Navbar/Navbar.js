@@ -14,33 +14,33 @@ const Navbar = () => {
       </div>
       <ul className="navbar-links">
         <li>
-          <NavLink to="/" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/Home" className="nav-link" activeClassName="active">
           
             Home
           </NavLink>
         </li>
         <li>
-          <NavLink to="/Play" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/Play" className="nav-link" activeClassName="active">
             Play
           </NavLink>
         </li>
         <li>
-          <NavLink to="/Learn" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/Learn" className="nav-link" activeClassName="active">
             Learn
           </NavLink>
         </li>
         <li>
-          <NavLink to="/Practice" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/Practice" className="nav-link" activeClassName="active">
             Practice
           </NavLink>
         </li>
         <li>
-          <NavLink to="/About" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/About" className="nav-link" activeClassName="active">
             About
           </NavLink>
         </li>
         <li>
-          <NavLink to="/Sitemap" className="nav-link" activeClassName="active">
+          <NavLink to="/nas-v1/Sitemap" className="nav-link" activeClassName="active">
             Sitemap
           </NavLink>
         </li>
